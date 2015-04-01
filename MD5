@@ -1,0 +1,16 @@
+7f6f40b54a9b18a47d6e52988e596da3 *DESCRIPTION
+0b76d11bc3d0c08c5170f72444e97598 *LICENSE
+9ec3cbdef6499dbc2b9408819aecb453 *NAMESPACE
+62ff5218f9ec9943c704caf92983b3d0 *NEWS
+26386813150715a31f42449f1531e617 *R/harmonic.regression.R
+981bce304687593150f15e50e2354aee *build/vignette.rds
+749105af2ce799017224d64f88f13329 *data/rna.nasc.rda
+b9544e6fa9579cce5e30274b0f6c0b25 *data/rna.polya.rda
+7eae09d7eb9362dea171684a94cb4063 *inst/CITATION
+359b8edbd5399054f2af3c124e2b2bc0 *inst/doc/vignette.R
+e41b6546a63167b5cd16171b7e802de2 *inst/doc/vignette.Rnw
+b4dbb542bda4171039f1fd52365e86a6 *inst/doc/vignette.pdf
+58c463b08720e0e3bd5d70530442f8cc *man/harmonic.regression.Rd
+3097e6efeb1cad8b18ab28fa8754ea1b *man/rna.nasc.Rd
+aa6bd6accf17a27e8ac318f3b456945e *man/rna.polya.Rd
+e41b6546a63167b5cd16171b7e802de2 *vignettes/vignette.Rnw
